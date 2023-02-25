@@ -29,7 +29,7 @@ Your app is ready to be deployed!
 
 Clone and setup the repository to your local machine using the following command:
 
-    - git clone https://github.com/utk145/codepen-clone.git
+    - git clone https://github.com/utk145/React-Codepen-Clone.git
     - npm install
     - npm install @mui/material @emotion/react @emotion/styled
     - @mui/icons-material
@@ -50,5 +50,6 @@ Try:
 Please note that I do not own [Codepen](codepen.io) or any of its affiliated entities. This code has been created solely for educational purposes and is not intended for commercial use or distribution. Any use of this code is at your own risk, and I am not responsible for any damages or consequences that may arise from its use. Furthermore, I make no guarantees or warranties regarding the accuracy or completeness of the code, and I shall not be liable for any errors or omissions in the code or any loss or damage of any kind arising from or in connection with the use of the code.
 
 
+[test Me]
 
 Keep Codin' :)
